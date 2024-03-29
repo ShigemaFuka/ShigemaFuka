@@ -6,7 +6,7 @@
 </p>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ShigemaFuka&theme=onedark" alt="ShigemaFuka" />
 
-## ほげ２
+## 勉強しているもの
 <p div="left">
   <a href="https://learn.microsoft.com/ja-jp/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" alt="csharp" width="40" height="40"/>
