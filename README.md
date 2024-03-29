@@ -14,9 +14,6 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unity_logo_icon_144772.png" alt="unity" width="40" height="40"/>
   </a> 
-  <a href="https://learn.microsoft.com/ja-jp/windows/win32/direct3dhlsl/dx-graphics-hlsl" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_hlsl_icon_130544.png" alt="csharp" width="40" height="40"/>
-  </a>
 </p>
 <!--
 **ShigemaFuka/ShigemaFuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
